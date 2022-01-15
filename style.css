@@ -65,6 +65,15 @@ Section-1 Style
     margin-top: 50px;
 }
 
+.section-1 .right-side img{
+   transition: height 100s;
+}
+
+.section-1 .right-side img:hover{
+    height: 70%;
+    
+}
+
 .prebook-btn{
     text-align: center;
     justify-content: center;
